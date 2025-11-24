@@ -53,6 +53,7 @@ public class MyString {
             if (match){
                 return true;
             }
+            i++;
         }    
         return false;
     }
